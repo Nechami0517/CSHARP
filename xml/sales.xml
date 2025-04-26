@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale>
+  <Sale>
+    <SaleId>1000</SaleId>
+    <ProductId>100</ProductId>
+    <Count>2</Count>
+    <Price>70</Price>
+    <IsClub>false</IsClub>
+    <DateBeginSail>2025-03-25T11:47:22.664436+02:00</DateBeginSail>
+    <DateEndSail>9999-12-31T23:59:59.9999999</DateEndSail>
+  </Sale>
+  <Sale>
+    <SaleId>1001</SaleId>
+    <ProductId>101</ProductId>
+    <Count>2</Count>
+    <Price>15</Price>
+    <IsClub>true</IsClub>
+    <DateBeginSail>2025-03-25T11:47:22.6855682+02:00</DateBeginSail>
+    <DateEndSail>9999-12-31T23:59:59.9999999</DateEndSail>
+  </Sale>
+</ArrayOfSale>

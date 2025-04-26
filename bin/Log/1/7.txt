@@ -1,0 +1,82 @@
+07/01/2025 16:41:39	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+07/01/2025 16:41:39	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 went out and return 100
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 went out and return 101
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 went out and return 102
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 went out and return 103
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.ProductImplementation.Create:	 went out and return 104
+07/01/2025 16:41:39	Dal.SaleImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.SaleImplementation.Create:	 went out and return 1000
+07/01/2025 16:41:39	Dal.SaleImplementation.Create:	 insert
+07/01/2025 16:41:39	Dal.SaleImplementation.Create:	 went out and return 1001
+07/01/2025 16:43:05	Dal.CustomerImplementation.Read:	 insert
+07/01/2025 16:43:11	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+07/01/2025 16:43:11	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 went out and return 100
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 went out and return 101
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 went out and return 102
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 went out and return 103
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.ProductImplementation.Create:	 went out and return 104
+07/01/2025 16:43:11	Dal.SaleImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.SaleImplementation.Create:	 went out and return 1000
+07/01/2025 16:43:11	Dal.SaleImplementation.Create:	 insert
+07/01/2025 16:43:11	Dal.SaleImplementation.Create:	 went out and return 1001
+07/01/2025 16:43:20	Dal.SaleImplementation.Read:	 insert
+07/01/2025 16:43:20	Dal.SaleImplementation.Read:	 went out and return Sale { SaleId = 1000, ProductId = 100, Count = 40, IsClub = False, DateBeginSail = 07/01/2025 16:43:11, DateEndSail = 31/12/9999 23:59:59 }
+07/01/2025 17:08:36	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+07/01/2025 17:08:36	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 went out and return 100
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 went out and return 101
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 went out and return 102
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 went out and return 103
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.ProductImplementation.Create:	 went out and return 104
+07/01/2025 17:08:36	Dal.SaleImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.SaleImplementation.Create:	 went out and return 1000
+07/01/2025 17:08:36	Dal.SaleImplementation.Create:	 insert
+07/01/2025 17:08:36	Dal.SaleImplementation.Create:	 went out and return 1001
+07/01/2025 17:08:50	Dal.SaleImplementation.Read:	 insert
+07/01/2025 17:08:50	Dal.SaleImplementation.Read:	 went out and return Sale { SaleId = 1000, ProductId = 100, Count = 40, IsClub = False, DateBeginSail = 07/01/2025 17:08:36, DateEndSail = 31/12/9999 23:59:59 }
+07/01/2025 17:08:59	Dal.CustomerImplementation.Read:	 insert
+07/01/2025 17:18:15	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+07/01/2025 17:18:15	Dal.CustomerImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 went out and return 100
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 went out and return 101
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 went out and return 102
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 went out and return 103
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.ProductImplementation.Create:	 went out and return 104
+07/01/2025 17:18:15	Dal.SaleImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.SaleImplementation.Create:	 went out and return 1000
+07/01/2025 17:18:15	Dal.SaleImplementation.Create:	 insert
+07/01/2025 17:18:15	Dal.SaleImplementation.Create:	 went out and return 1001
+07/01/2025 17:18:20	Dal.CustomerImplementation.ReadAll:	 insert
+07/01/2025 17:18:20	Dal.CustomerImplementation.ReadAll:	 went out and return System.Collections.Generic.List`1[DO.Customer]
+07/01/2025 17:18:38	Dal.CustomerImplementation.Read:	 insert
+07/01/2025 17:18:38	Dal.CustomerImplementation.Read:	 went out and return Customer { CustomerId = 21531517, CustomerName = Nechami Shwartz, CustomerAdress = הרב מפונוביז' 8, CustomerPhoneNumber = 0583212449 }

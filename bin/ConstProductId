@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ConstProductId>105</ConstProductId>
+  <ConstSaleId>1002</ConstSaleId>
+  <CodeProductId>ConstProductId</CodeProductId>
+  <CodeSaleId>ConstSaleId</CodeSaleId>
+</config>

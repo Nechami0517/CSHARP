@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <CustomerId>215310517</CustomerId>
+    <CustomerName>Nechami Shwartz</CustomerName>
+    <CustomerAdress>הרב מפונוביז' 8</CustomerAdress>
+    <CustomerPhoneNumber>0583212449</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerId>327867792</CustomerId>
+    <CustomerName>Michal Busgrian</CustomerName>
+    <CustomerAdress>רבי עקיבא 9</CustomerAdress>
+    <CustomerPhoneNumber>0527652458</CustomerPhoneNumber>
+  </Customer>
+</ArrayOfCustomer>

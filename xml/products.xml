@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductId>100</ProductId>
+    <ProductName>pen</ProductName>
+    <Category>engraving</Category>
+    <price>50</price>
+    <QuantityInStock>150</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>101</ProductId>
+    <ProductName>soup</ProductName>
+    <Category>soaps</Category>
+    <price>20</price>
+    <QuantityInStock>100</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>102</ProductId>
+    <ProductName>bag</ProductName>
+    <Category>bags</Category>
+    <price>200</price>
+    <QuantityInStock>250</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>103</ProductId>
+    <ProductName>braclate</ProductName>
+    <Category>jewelry</Category>
+    <price>100</price>
+    <QuantityInStock>50</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>104</ProductId>
+    <ProductName>menWallets</ProductName>
+    <Category>wallets</Category>
+    <price>300</price>
+    <QuantityInStock>25</QuantityInStock>
+  </Product>
+</ArrayOfProduct>

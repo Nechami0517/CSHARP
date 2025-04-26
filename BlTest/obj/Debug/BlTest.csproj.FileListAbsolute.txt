@@ -1,0 +1,80 @@
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\BlTest.exe
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\BlTest.deps.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\BlTest.runtimeconfig.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\BlTest.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\BlTest.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.Up2Date
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\BlTest.exe
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\BlTest.deps.json
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\BlTest.runtimeconfig.json
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\BlTest.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\BlTest.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\בושריאן מיכל\C#\DalTest\bin\BlTest.exe
+Z:\B\בושריאן מיכל\C#\DalTest\bin\BlTest.deps.json
+Z:\B\בושריאן מיכל\C#\DalTest\bin\BlTest.runtimeconfig.json
+Z:\B\בושריאן מיכל\C#\DalTest\bin\BlTest.dll
+Z:\B\בושריאן מיכל\C#\DalTest\bin\BlTest.pdb
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.dll
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.pdb
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\בושריאן מיכל\C#\DalTest\BlTest\obj\Debug\ref\BlTest.dll
+E:\לימודים\פרוייקטים\DalTest\bin\BlTest.exe
+E:\לימודים\פרוייקטים\DalTest\bin\BlTest.deps.json
+E:\לימודים\פרוייקטים\DalTest\bin\BlTest.runtimeconfig.json
+E:\לימודים\פרוייקטים\DalTest\bin\BlTest.dll
+E:\לימודים\פרוייקטים\DalTest\bin\BlTest.pdb
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.csproj.Up2Date
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.dll
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\refint\BlTest.dll
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.pdb
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+E:\לימודים\פרוייקטים\DalTest\BlTest\obj\Debug\ref\BlTest.dll
+C:\Users\user1\Desktop\DalTest\bin\BlTest.exe
+C:\Users\user1\Desktop\DalTest\bin\BlTest.deps.json
+C:\Users\user1\Desktop\DalTest\bin\BlTest.runtimeconfig.json
+C:\Users\user1\Desktop\DalTest\bin\BlTest.dll
+C:\Users\user1\Desktop\DalTest\bin\BlTest.pdb
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.csproj.Up2Date
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.dll
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.pdb
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\ref\BlTest.dll

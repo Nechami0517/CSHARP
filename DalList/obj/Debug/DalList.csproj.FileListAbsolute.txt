@@ -1,0 +1,65 @@
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\DalList.deps.json
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\DalList.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\bin\DalList.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\refint\DalList.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\DalList.deps.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\bin\DalList.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\בושריאן מיכל\C#\DalTest\bin\DalList.deps.json
+Z:\B\בושריאן מיכל\C#\DalTest\bin\DalList.dll
+Z:\B\בושריאן מיכל\C#\DalTest\bin\DalList.pdb
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.dll
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\refint\DalList.dll
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\DalList.pdb
+Z:\B\בושריאן מיכל\C#\DalTest\DalList\obj\Debug\ref\DalList.dll
+E:\לימודים\פרוייקטים\DalTest\bin\DalList.deps.json
+E:\לימודים\פרוייקטים\DalTest\bin\DalList.dll
+E:\לימודים\פרוייקטים\DalTest\bin\DalList.pdb
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.dll
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\refint\DalList.dll
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\DalList.pdb
+E:\לימודים\פרוייקטים\DalTest\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\DalTest\bin\DalList.deps.json
+C:\Users\user1\Desktop\DalTest\bin\DalList.dll
+C:\Users\user1\Desktop\DalTest\bin\DalList.pdb
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\ref\DalList.dll

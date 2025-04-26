@@ -1,0 +1,560 @@
+06/03/2025 00:08:06	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:08:06	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:08:06	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:08:06	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:08:06	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:08:13	Dal.CustomerImplementation.Read:	 insert
+06/03/2025 00:08:13	Dal.CustomerImplementation.Read:	 went out and return Customer { CustomerId = 215310517, CustomerName = Nechami Shwartz, CustomerAdress = הרב מפונוביז' 8, CustomerPhoneNumber = 0583212449 }
+06/03/2025 00:08:26	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:08:26	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:08:26	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:09:12	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:09:12	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:09:12	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:09:12	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:09:12	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:09:17	Dal.CustomerImplementation.Read:	 insert
+06/03/2025 00:09:18	Dal.CustomerImplementation.Read:	 went out and return Customer { CustomerId = 215310517, CustomerName = Nechami Shwartz, CustomerAdress = הרב מפונוביז' 8, CustomerPhoneNumber = 0583212449 }
+06/03/2025 00:09:31	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:09:31	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:09:31	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:11:14	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:11:14	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:11:14	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:11:14	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:11:14	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:11:25	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:11:25	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:11:25	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:12:00	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:12:00	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:12:00	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:12:00	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:12:00	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:12:04	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:12:04	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:12:04	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:15:26	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:15:26	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:15:26	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:15:26	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:15:26	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:15:31	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:15:31	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:15:31	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:15:44	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:15:44	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:15:44	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:15:44	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:15:44	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:15:48	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:15:48	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:15:48	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:16:45	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:16:45	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:16:45	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:16:45	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:16:45	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:16:51	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:16:51	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:16:51	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:17:06	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:17:06	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:17:06	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:17:06	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:17:06	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:17:11	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:17:11	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:17:11	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:17:26	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:17:26	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:17:26	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:17:26	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:17:26	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:17:31	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:17:31	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:17:31	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:22:01	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:22:01	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:22:01	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:22:01	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:01	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:22:07	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:22:07	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:22:07	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:22:13	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:22:13	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:22:13	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:22:13	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:13	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:22:17	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:22:17	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:22:17	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:22:59	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:22:59	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:22:59	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:22:59	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:22:59	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:23:05	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:23:05	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 101, ProductName = soup, Category = soaps, price = 20, QuantityInStock = 100 }
+06/03/2025 00:23:05	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:26:50	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:26:50	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:26:50	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:26:50	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:26:50	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:26:54	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:26:54	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:26:54	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:27:04	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:27:04	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:27:04	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:27:04	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:27:04	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:27:06	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:27:06	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:27:06	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:28:46	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:28:46	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:28:46	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:28:46	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:28:46	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:28:49	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:28:49	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:28:49	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:29:30	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:29:30	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:29:30	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:29:30	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:29:30	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:29:32	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:29:32	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:29:32	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:31:31	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:31:31	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:31:31	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:31:31	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:31:31	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:31:34	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:31:34	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:31:34	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:32:51	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:32:51	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:32:51	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:32:51	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:32:51	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:32:55	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:32:55	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:32:55	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:35:07	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:35:07	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:35:07	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:35:07	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:35:07	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:35:11	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:11	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:11	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:35:24	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:24	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:24	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:35:24	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:35:24	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:24	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:24	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:35:46	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:35:46	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:35:46	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:35:46	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:35:46	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:35:49	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:49	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:49	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:35:53	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:53	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:53	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:35:53	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:35:53	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:35:53	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:35:53	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:37:05	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:37:05	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:37:05	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:37:05	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:05	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:37:08	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:08	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:08	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:37:12	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:12	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:12	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:37:12	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:37:12	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:12	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:12	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:37:21	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:37:21	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:37:21	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:37:21	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:21	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:37:28	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:37:28	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:37:28	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:37:28	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:37:28	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:37:32	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:32	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:32	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:37:41	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:41	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 101, ProductName = soup, Category = soaps, price = 20, QuantityInStock = 100 }
+06/03/2025 00:37:41	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:43	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:37:43	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 101, ProductName = soup, Category = soaps, price = 20, QuantityInStock = 100 }
+06/03/2025 00:37:43	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:37:43	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 101, ProductName = soup, Category = soaps, price = 20, QuantityInStock = 100 }
+06/03/2025 00:37:43	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:38:45	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.CustomerImplementation.Create:	 went out and return Nechami Shwartz
+06/03/2025 00:38:45	Dal.CustomerImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.CustomerImplementation.Create:	 went out and return Michal Busgrian
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 went out and return 100
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 went out and return 101
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 went out and return 102
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 went out and return 103
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.ProductImplementation.Create:	 went out and return 104
+06/03/2025 00:38:45	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.SaleImplementation.Create:	 went out and return 1000
+06/03/2025 00:38:45	Dal.SaleImplementation.Create:	 insert
+06/03/2025 00:38:45	Dal.SaleImplementation.Create:	 went out and return 1001
+06/03/2025 00:38:50	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:38:50	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:38:50	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:38:57	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:38:57	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 102, ProductName = bag, Category = bags, price = 200, QuantityInStock = 250 }
+06/03/2025 00:38:57	Dal.SaleImplementation.ReadAll:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:39:04	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 100, ProductName = pen, Category = engraving, price = 50, QuantityInStock = 150 }
+06/03/2025 00:39:04	Dal.ProductImplementation.Update:	 went out
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 102, ProductName = bag, Category = bags, price = 200, QuantityInStock = 250 }
+06/03/2025 00:39:04	Dal.ProductImplementation.Update:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Delete:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 insert
+06/03/2025 00:39:04	Dal.ProductImplementation.Read:	 went out and return Product { ProductId = 102, ProductName = bag, Category = bags, price = 200, QuantityInStock = 250 }
+06/03/2025 00:39:04	Dal.ProductImplementation.Update:	 went out

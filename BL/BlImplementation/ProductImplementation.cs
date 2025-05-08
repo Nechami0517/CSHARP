@@ -85,18 +85,7 @@ internal class ProductImplementation : IProduct
         }
     }
 
-    //public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filters = null)
-    //{
-    //    try
-    //    {
-    //        return _dal.Product.ReadAll(product => filters(product.Convert()))
-    //            .Select(p => p.Convert()).ToList();
-    //    }
-    //    catch (Exception ex)
-    //    {
-    //        throw new BlSystemException("Failed to read all products.", ex);
-    //    }
-    //}
+    
     public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filters = null)
     {
         try

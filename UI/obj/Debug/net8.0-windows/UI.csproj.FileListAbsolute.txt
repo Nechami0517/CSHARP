@@ -56,3 +56,39 @@ C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.c
 C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\ref\UI.dll
 C:\Users\user1\Desktop\DalTest\UI\bin\Debug\net8.0-windows\DalXml.dll
 C:\Users\user1\Desktop\DalTest\UI\bin\Debug\net8.0-windows\DalXml.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\UI.exe
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\UI.deps.json
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\UI.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\UI.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\Bl.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalFacade.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalList.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalXml.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\Tools.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\Bl.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalFacade.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalList.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalXml.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\Tools.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.SaleManMenu.resources
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\refint\UI.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.pdb
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\ref\UI.dll
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.Login.resources
+Z:\B\שורץ נחמי\יד\c#\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.resources
+C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.Login.resources
+C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.resources
+C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.sourcelink.json
+C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.CustomerManagment.resources

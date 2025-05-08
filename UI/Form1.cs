@@ -9,12 +9,18 @@ namespace UI
 
         private void saleMan_Click(object sender, EventArgs e)
         {
-            CustomerLogin form = new CustomerLogin();
+            Login form = new Login(false);
             form.ShowDialog();
 
 
 
-          
+
+        }
+
+        private void management_Click(object sender, EventArgs e)
+        {
+            Login form = new Login(true);
+            form.ShowDialog();
         }
     }
 }

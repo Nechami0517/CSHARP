@@ -45,10 +45,10 @@
             chooseProductComboBox = new ComboBox();
             chooseProdToDelete = new Label();
             tabPage3 = new TabPage();
+            updateCount = new NumericUpDown();
             updateBtn = new Button();
             updateComboBox = new ComboBox();
             update = new Label();
-            updateCount = new NumericUpDown();
             deleteProduct.SuspendLayout();
             tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)countDitails).BeginInit();
@@ -155,7 +155,6 @@
             countDitails.Name = "countDitails";
             countDitails.Size = new Size(150, 27);
             countDitails.TabIndex = 2;
-            countDitails.ValueChanged += countDitails_ValueChanged;
             // 
             // chooseProduct
             // 
@@ -230,6 +229,13 @@
             tabPage3.Text = "עדכון כמות";
             tabPage3.UseVisualStyleBackColor = true;
             // 
+            // updateCount
+            // 
+            updateCount.Location = new Point(114, 144);
+            updateCount.Name = "updateCount";
+            updateCount.Size = new Size(150, 27);
+            updateCount.TabIndex = 5;
+            // 
             // updateBtn
             // 
             updateBtn.Location = new Point(163, 187);
@@ -256,13 +262,6 @@
             update.Size = new Size(119, 20);
             update.TabIndex = 2;
             update.Text = "בחר מוצר לעידכון";
-            // 
-            // updateCount
-            // 
-            updateCount.Location = new Point(114, 144);
-            updateCount.Name = "updateCount";
-            updateCount.Size = new Size(150, 27);
-            updateCount.TabIndex = 5;
             // 
             // SaleManMenu
             // 

@@ -386,6 +386,9 @@
             "projectReferences": {
               "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj": {
                 "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj"
+              },
+              "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj"
               }
             }
           }

@@ -71,7 +71,7 @@ internal class CustomerImplemention : ICustomer
                 if (c != null)
                 {
                     customers.Remove(c);
-                    using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Write))
+                    using (FileStream fs = new FileStream(FILE_PATH, FileMode.Create, FileAccess.Write))
                     {
                         serializer.Serialize(fs, customers);
                     }

@@ -86,3 +86,4 @@ C:\Users\user1\Desktop\DalTest\DalTest\obj\Debug\refint\DalTest.dll
 C:\Users\user1\Desktop\DalTest\DalTest\obj\Debug\DalTest.pdb
 C:\Users\user1\Desktop\DalTest\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 C:\Users\user1\Desktop\DalTest\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user1\Desktop\DalTest\DalTest\obj\Debug\DalTest.sourcelink.json

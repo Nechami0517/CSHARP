@@ -63,3 +63,4 @@ C:\Users\user1\Desktop\DalTest\Bl\obj\Debug\Bl.dll
 C:\Users\user1\Desktop\DalTest\Bl\obj\Debug\refint\Bl.dll
 C:\Users\user1\Desktop\DalTest\Bl\obj\Debug\Bl.pdb
 C:\Users\user1\Desktop\DalTest\Bl\obj\Debug\ref\Bl.dll
+C:\Users\user1\Desktop\DalTest\Bl\obj\Debug\Bl.sourcelink.json

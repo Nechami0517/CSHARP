@@ -76,12 +76,18 @@ internal class CustomerImplementation : ICustomer
     {
         try
         {
-            return _dal.Customer.ReadAll(c => filters(c.Convert()))
-                .Select(c => c.Convert()).ToList();
+            var customers = _dal.Customer.ReadAll();
+
+            if (filters != null)
+            {
+                customers = customers.Where(customer => filters(customer.Convert())).ToList();
+            }
+
+            return customers.Select(p => p.Convert()).ToList();
         }
         catch (Exception ex)
         {
-            throw new BlSystemException("Failed to read all customers.", ex);
+            throw new BlSystemException("Failed to read all products.", ex);
         }
     }
 

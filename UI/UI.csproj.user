@@ -4,7 +4,19 @@
     <Compile Update="CustomerLogin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CustomerManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagementMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductManagement.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SaleManMenu.cs">

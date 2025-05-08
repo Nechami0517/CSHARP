@@ -95,7 +95,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Bl >= 1.0.0"
+      "Bl >= 1.0.0",
+      "DalXml >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -133,6 +134,9 @@
           "projectReferences": {
             "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj": {
               "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj"
+            },
+            "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj"
             }
           }
         }

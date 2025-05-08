@@ -18,7 +18,8 @@
       "Bl/1.0.0": {
         "dependencies": {
           "DalFacade": "1.0.0",
-          "DalList": "1.0.0"
+          "DalList": "1.0.0",
+          "DalXml": "1.0.0"
         },
         "runtime": {
           "Bl.dll": {

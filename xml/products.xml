@@ -1,38 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <ProductId>100</ProductId>
+    <ProductId>124</ProductId>
     <ProductName>pen</ProductName>
     <Category>engraving</Category>
     <price>50</price>
-    <QuantityInStock>150</QuantityInStock>
+    <QuantityInStock>50</QuantityInStock>
   </Product>
   <Product>
-    <ProductId>101</ProductId>
+    <ProductId>125</ProductId>
     <ProductName>soup</ProductName>
     <Category>soaps</Category>
     <price>20</price>
     <QuantityInStock>100</QuantityInStock>
   </Product>
   <Product>
-    <ProductId>102</ProductId>
+    <ProductId>127</ProductId>
     <ProductName>bag</ProductName>
     <Category>bags</Category>
-    <price>200</price>
-    <QuantityInStock>250</QuantityInStock>
+    <price>215</price>
+    <QuantityInStock>248</QuantityInStock>
   </Product>
   <Product>
-    <ProductId>103</ProductId>
-    <ProductName>braclate</ProductName>
-    <Category>jewelry</Category>
-    <price>100</price>
-    <QuantityInStock>50</QuantityInStock>
-  </Product>
-  <Product>
-    <ProductId>104</ProductId>
+    <ProductId>120</ProductId>
     <ProductName>menWallets</ProductName>
     <Category>wallets</Category>
     <price>300</price>
-    <QuantityInStock>25</QuantityInStock>
+    <QuantityInStock>0</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>122</ProductId>
+    <ProductName>השם תודה!</ProductName>
+    <Category>wallets</Category>
+    <price>100</price>
+    <QuantityInStock>40</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>119</ProductId>
+    <ProductName>braclate</ProductName>
+    <Category>jewelry</Category>
+    <price>95</price>
+    <QuantityInStock>52</QuantityInStock>
   </Product>
 </ArrayOfProduct>

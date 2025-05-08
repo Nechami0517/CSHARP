@@ -14,9 +14,9 @@ internal static class Config
     //private static string nameXmlFile = @"..\xml\data-config.xml";
     //static XElement dataConfigXml = XElement.Load(absolutePath);
     //private const string FILE_PATH = "ConstProductId";
-    private static string nameXmlFile = @"..\xml\data-config.xml";
+    private static string nameXmlFile = @"C:\Users\user1\Desktop\DalTest\xml\data-config.xml";
     static XElement dataConfigXml = XElement.Load(nameXmlFile);
-    private const string FILE_PATH = "ConstProductId";
+    //private const string FILE_PATH = "ConstProductId";
 
     /// <summary>
     /// ערכי התחלה למזהים
@@ -45,7 +45,7 @@ internal static class Config
         get
         {
             dataXml.Element("ConstProductId").SetValue(CodeProductId + 1);
-            dataXml.Save(FILE_PATH);
+            dataXml.Save(nameXmlFile);
             return CodeProductId++;
         }
 
@@ -55,7 +55,7 @@ internal static class Config
         get
         {
             dataXml.Element("ConstSaleId").SetValue(CodeSaleId + 1);
-            dataXml.Save(FILE_PATH);
+            dataXml.Save(nameXmlFile);
             return CodeSaleId++;
         }
 

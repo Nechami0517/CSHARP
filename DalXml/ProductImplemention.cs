@@ -1,20 +1,14 @@
 ﻿using DalApi;
 using DalXml;
 using DO;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 using System.Xml.Serialization;
 
 namespace Dal;
 
 internal class ProductImplemention : IProduct
 {
-    /*   private const string FILE_PATH = @"../xml\products.xml"; // נתיב יחסי לתיקיית xml
-        string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט*/
+    ///*   private const string FILE_PATH = @"../xml\products.xml"; // נתיב יחסי לתיקיית xml
+    //    string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט*/
 
     string absolutePath = @"C:\Users\user1\Desktop\DalTest\xml\products.xml";
 
@@ -24,7 +18,7 @@ internal class ProductImplemention : IProduct
         try
         {
             List<Product> products = new List<Product>();
-           
+
             if (File.Exists(absolutePath))
             {
                 //קריאת המוצרים הקימים לתוך הרשימה 
@@ -42,8 +36,17 @@ internal class ProductImplemention : IProduct
                 //אחרת יוסיף את המוצר וירשום ל-xml
                 else
                 {
-                    Product p = newProduct with { ProductId = Config.GetCodeProduct };
-                    products.Add(p);
+                    Product p;
+                    if (newProduct.ProductId == 0)
+                    {
+                         p = newProduct with { ProductId = Config.GetCodeProduct };
+                    }
+                    else
+                    {
+                         p = newProduct;
+                    }
+
+                        products.Add(p);
                     using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Write))
                     {
                         serializer.Serialize(fs, products);
@@ -80,7 +83,7 @@ internal class ProductImplemention : IProduct
                 if (c != null)
                 {
                     products.Remove(c);
-                    using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Write))
+                    using (FileStream fs = new FileStream(absolutePath, FileMode.Create, FileAccess.Write))
                     {
                         serializer.Serialize(fs, products);
                     }

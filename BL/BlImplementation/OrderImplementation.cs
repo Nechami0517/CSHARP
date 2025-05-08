@@ -113,26 +113,38 @@ class OrderImplementation : IOrder
                 if (myProduct.QuantityInStock >= currentProduct.ProductCount + countToAdd)
                 {
                     currentProduct.ProductCount += countToAdd;
-                    
+                    myProduct = myProduct with { QuantityInStock = myProduct.QuantityInStock - countToAdd };
+                    _dal.Product.Update(myProduct);
                 }
                 else
                     if (currentProduct.ProductCount > 0 && currentProduct.ProductCount < countToAdd)
                     {
                             currentProduct.ProductCount += (int)myProduct.QuantityInStock;
+                    myProduct = myProduct with { QuantityInStock = 0 };
+                    _dal.Product.Update(myProduct);
+
                 }
                 else
                     throw new Exception();
             }
             else
             {
+                currentProduct = new ProductInOrder(myProduct.ProductId, myProduct.ProductName, (double)myProduct.price, countToAdd, null);
                 if (myProduct.QuantityInStock >= countToAdd)
                 {
 
-                    currentProduct = new ProductInOrder(myProduct.ProductId, myProduct.ProductName, (double)myProduct.price, countToAdd, null);
+                    
+                    myProduct = myProduct with { QuantityInStock = myProduct.QuantityInStock - countToAdd };
+                    _dal.Product.Update(myProduct);
                     order.ProductList.Add(currentProduct);
                 }
                 else
-                    throw new Exception();
+                {
+                    currentProduct.ProductCount = (int)myProduct.QuantityInStock;
+                    myProduct = myProduct with { QuantityInStock = 0 };
+                    _dal.Product.Update(myProduct);
+                    order.ProductList.Add(currentProduct);
+                }
             }
             SearchSaleForProduct(currentProduct, order.IsPreferredCustomer);
             CalcTotalPriceForProduct(currentProduct);

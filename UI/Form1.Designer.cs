@@ -34,9 +34,10 @@
             // 
             // saleMan
             // 
-            saleMan.Location = new Point(460, 138);
+            saleMan.Location = new Point(402, 104);
+            saleMan.Margin = new Padding(3, 2, 3, 2);
             saleMan.Name = "saleMan";
-            saleMan.Size = new Size(192, 87);
+            saleMan.Size = new Size(168, 65);
             saleMan.TabIndex = 0;
             saleMan.Text = "saleMan";
             saleMan.UseVisualStyleBackColor = true;
@@ -44,20 +45,23 @@
             // 
             // management
             // 
-            management.Location = new Point(205, 138);
+            management.Location = new Point(179, 104);
+            management.Margin = new Padding(3, 2, 3, 2);
             management.Name = "management";
-            management.Size = new Size(192, 87);
+            management.Size = new Size(168, 65);
             management.TabIndex = 1;
             management.Text = "management";
             management.UseVisualStyleBackColor = true;
+            management.Click += management_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(management);
             Controls.Add(saleMan);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);

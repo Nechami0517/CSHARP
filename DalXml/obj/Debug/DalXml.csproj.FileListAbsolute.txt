@@ -50,3 +50,4 @@ C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\DalXml.dll
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\DalXml.pdb
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\DalXml.sourcelink.json

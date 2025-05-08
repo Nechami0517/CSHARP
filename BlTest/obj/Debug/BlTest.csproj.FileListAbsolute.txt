@@ -78,3 +78,4 @@ C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\refint\BlTest.dll
 C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.pdb
 C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
 C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\ref\BlTest.dll
+C:\Users\user1\Desktop\DalTest\BlTest\obj\Debug\BlTest.sourcelink.json

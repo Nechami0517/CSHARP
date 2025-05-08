@@ -25,23 +25,23 @@ namespace UI
         {
             int customerId = (int.TryParse(textBoxId.Text, out int temp) && temp != 0) ? temp : 0;
             Customer customer = null;
+            Order order = new Order(false);
             try
             {
                 customer = _bl.Customer.Read(customerId);
             }
             catch
             {
-                MessageBox.Show("Customer not found");
-                return;
+               // MessageBox.Show("Customer not found");
+                order.IsPreferredCustomer = false;
             }
-            Order order = new Order(false);
+           
             if (customer != null)
             {
                 order.IsPreferredCustomer = true;
-
-                SaleManMenu form = new SaleManMenu(order);
-                form.ShowDialog();
             }
+            SaleManMenu form = new SaleManMenu(order);
+            form.ShowDialog();
         }
     }
 }

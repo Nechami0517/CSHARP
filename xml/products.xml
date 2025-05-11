@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <ProductId>124</ProductId>
-    <ProductName>pen</ProductName>
-    <Category>engraving</Category>
-    <price>50</price>
-    <QuantityInStock>50</QuantityInStock>
-  </Product>
-  <Product>
-    <ProductId>125</ProductId>
-    <ProductName>soup</ProductName>
-    <Category>soaps</Category>
-    <price>20</price>
-    <QuantityInStock>100</QuantityInStock>
-  </Product>
-  <Product>
     <ProductId>127</ProductId>
     <ProductName>bag</ProductName>
     <Category>bags</Category>
     <price>215</price>
-    <QuantityInStock>248</QuantityInStock>
+    <QuantityInStock>247</QuantityInStock>
   </Product>
   <Product>
     <ProductId>120</ProductId>
@@ -29,17 +15,66 @@
     <QuantityInStock>0</QuantityInStock>
   </Product>
   <Product>
-    <ProductId>122</ProductId>
-    <ProductName>השם תודה!</ProductName>
-    <Category>wallets</Category>
-    <price>100</price>
-    <QuantityInStock>40</QuantityInStock>
+    <ProductId>124</ProductId>
+    <ProductName>pen</ProductName>
+    <Category>engraving</Category>
+    <price>50</price>
+    <QuantityInStock>47</QuantityInStock>
   </Product>
   <Product>
     <ProductId>119</ProductId>
     <ProductName>braclate</ProductName>
     <Category>jewelry</Category>
     <price>95</price>
-    <QuantityInStock>52</QuantityInStock>
+    <QuantityInStock>51</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>129</ProductId>
+    <ProductName>לקראת סיום</ProductName>
+    <Category>jewelry</Category>
+    <price>6</price>
+    <QuantityInStock>2</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>122</ProductId>
+    <ProductName>השם תודה!</ProductName>
+    <Category>wallets</Category>
+    <price>100</price>
+    <QuantityInStock>39</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>131</ProductId>
+    <ProductName>יצירתיות</ProductName>
+    <Category>bags</Category>
+    <price>100</price>
+    <QuantityInStock>78</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>130</ProductId>
+    <ProductName>אבא שבשמים</ProductName>
+    <Category>engraving</Category>
+    <price>100</price>
+    <QuantityInStock>96</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>128</ProductId>
+    <ProductName>מוצאי  שבת</ProductName>
+    <Category>jewelry</Category>
+    <price>80</price>
+    <QuantityInStock>100</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>125</ProductId>
+    <ProductName>soup</ProductName>
+    <Category>soaps</Category>
+    <price>20</price>
+    <QuantityInStock>0</QuantityInStock>
+  </Product>
+  <Product>
+    <ProductId>132</ProductId>
+    <ProductName>בשורות טובות</ProductName>
+    <Category>jewelry</Category>
+    <price>500</price>
+    <QuantityInStock>0</QuantityInStock>
   </Product>
 </ArrayOfProduct>

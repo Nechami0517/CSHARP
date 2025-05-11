@@ -1,5 +1,7 @@
 ﻿
 
+using BO;
+using DO;
 using System.Data;
 
 
@@ -29,6 +31,14 @@ namespace UI
                 updateCategoriesComboBox1.Items.Add(category);
                 filterComboBox.Items.Add(category);
             }
+            updateNumericUpDown.Maximum = 10000;
+            updateQuantityInStockNumericUpDown.Maximum = 1000;
+            PriceNumericUpDown.Maximum = 10000000;
+            QuantityInStockNumericUpDown.Maximum = 10000000;
+            updateNumericUpDown.Minimum = 0;
+            updateQuantityInStockNumericUpDown.Minimum = 0;
+            PriceNumericUpDown.Minimum = 0;
+            QuantityInStockNumericUpDown.Minimum = 0;
 
         }
         private void updateDetails()
@@ -63,6 +73,10 @@ namespace UI
             }
             finally
             {
+                nameTextBox.Text = "";
+                PriceNumericUpDown.Value = 0;
+                QuantityInStockNumericUpDown.Value = 0;
+                CategoriesCM.Text = "";
                 // עדכון תצוגה בשינויים
                 updateDetails();
             }

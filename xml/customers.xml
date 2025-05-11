@@ -24,4 +24,10 @@
     <CustomerAdress>הרב מפונוביז' 8</CustomerAdress>
     <CustomerPhoneNumber>583212449</CustomerPhoneNumber>
   </Customer>
+  <Customer>
+    <CustomerId>215897465</CustomerId>
+    <CustomerName>נחמי קרשינסקי</CustomerName>
+    <CustomerAdress>ריטב"א 6</CustomerAdress>
+    <CustomerPhoneNumber>58985445</CustomerPhoneNumber>
+  </Customer>
 </ArrayOfCustomer>

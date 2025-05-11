@@ -161,7 +161,7 @@ namespace UI
             string search = searchNameTextBox.Text;
             if (string.IsNullOrEmpty(search))
             {
-                רשימת_לקוחות.DataSource = customersList;
+                UpdateDetails(); return;
             }
             else
             {

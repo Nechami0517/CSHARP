@@ -7,10 +7,12 @@ namespace Dal;
 
 internal class ProductImplemention : IProduct
 {
-    ///*   private const string FILE_PATH = @"../xml\products.xml"; // נתיב יחסי לתיקיית xml
-    //    string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט*/
+    private const string FILE_PATH = @"..\..\..\..\xml\products.xml"; // נתיב יחסי לתיקיית xml
+    string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט
 
-    string absolutePath = @"C:\Users\user1\Desktop\DalTest\xml\products.xml";
+
+    //string absolutePath = @"C:\Users\user1\Desktop\DalTest\xml\products.xml";
+ 
 
     XmlSerializer serializer = new XmlSerializer(typeof(List<Product>));
     public int Create(Product newProduct)

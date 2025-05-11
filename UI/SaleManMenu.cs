@@ -21,12 +21,27 @@ namespace UI
 
             InitializeComponent();
             this.order = o;
-            showProductsCB.DataSource = _bl.Product.ReadAll().Select(p => p.ProductName).ToList();
+            UpdateDetails();
+            UpdateFirstDetails();
             /*    chooseProductComboBox.DataSource = order.ProductList;*/
 
 
         }
-
+        private void UpdateFirstDetails()
+        {
+            countDitails.Maximum = 100000;
+            countDitails.Minimum = 1;
+            updateCount.Maximum = 100000;
+            updateCount.Minimum = 0;
+        }
+        private void UpdateDetails()
+        {
+            showProductsCB.DataSource = _bl.Product.ReadAll().Select(p => p.ProductName).ToList();
+            רשימת_מוצרים_בהזמנה.DataSource = order.ProductList.Select(p => new { name = p.ProductName, price = p.FinalPrice, count = p.ProductCount }).ToList();
+            chooseProductComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList();
+            updateComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList(); ;
+           
+        }
         private void tabPage1_Click_1(object sender, EventArgs e)
         {
 
@@ -57,18 +72,37 @@ namespace UI
             }
             else
             {
-
-
-                if (count > _bl.Product.Read(p.ProductId).QuantityInStock)
+                if (_bl.Product.Read(p.ProductId).QuantityInStock == 0)
                 {
-                    MessageBox.Show("אין מספיק במלאי נוסף: " + _bl.Product.Read(p.ProductId).QuantityInStock);
+                    MessageBox.Show("המוצר אזל מהמלאי");
+
                 }
-                _bl.Order.AddProductToOrder(order, p.ProductId, count);
-                ProductInOrder currentProduct = order.ProductList.FirstOrDefault(prod => prod.ProductId == p.ProductId);
-                רשימת_מוצרים_בהזמנה.DataSource = order.ProductList.Select(p => new { name = p.ProductName, price = p.FinalPrice, count = p.ProductCount }).ToList();
-                chooseProductComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList();
-                updateComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList(); ;
-                updateCount.Value = currentProduct.ProductCount;
+                else
+                {
+
+
+
+                    if (count > _bl.Product.Read(p.ProductId).QuantityInStock)
+                    {
+                        MessageBox.Show("אין מספיק במלאי נוסף: " + _bl.Product.Read(p.ProductId).QuantityInStock);
+                    }
+                    else
+                    {
+
+
+                        _bl.Order.AddProductToOrder(order, p.ProductId, count);
+                        ProductInOrder currentProduct = order.ProductList.FirstOrDefault(prod => prod.ProductId == p.ProductId);
+                        רשימת_מוצרים_בהזמנה.DataSource = order.ProductList.Select(p => new { name = p.ProductName, price = p.FinalPrice, count = p.ProductCount }).ToList();
+                        chooseProductComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList();
+                        updateComboBox.DataSource = order.ProductList.Select(p => p.ProductName).ToList(); ;
+                        updateCount.Value = currentProduct.ProductCount;
+                    }
+                    
+                }
+                countDitails.Value = 0;
+                showProductsCB.Text = "";
+                salesForProduct = null;
+                priceTextBox.Text = "0 שח";
             }
         }
 
@@ -80,7 +114,8 @@ namespace UI
             Product p = _bl.Product.Read(p => p.ProductName == productName);
             ProductInOrder p1 = order.ProductList.Find(p => p.ProductName == productName);
             order.ProductList.Remove(p1);
-            רשימת_מוצרים_בהזמנה.DataSource = order.ProductList.Select(p => new { name = p.ProductName, price = p.FinalPrice, count = p.ProductCount }).ToList();
+            UpdateDetails();
+
 
         }
 
@@ -99,7 +134,7 @@ namespace UI
             if (count < 0)
             {
                 currentProduct.QuantityInStock = currentProduct.QuantityInStock + (p.ProductCount - (int)updateCount.Value);
-                p.ProductCount -= count;
+                p.ProductCount -= count * -1;
                 _bl.Product.Update(currentProduct);
             }
             //טיפול במקרה של הוספה בכמות
@@ -123,9 +158,9 @@ namespace UI
             if (p.ProductCount == 0)
                 _bl.Order.deleteProductFromOrder(order, p.ProductId);
             else
-            { 
+            {
                 _bl.Order.CalcTotalPriceForProduct(p);
-            _bl.Order.CalcTotalPrice(order);
+                _bl.Order.CalcTotalPrice(order);
             }
             //עדכון תצוגה בשינויים
 

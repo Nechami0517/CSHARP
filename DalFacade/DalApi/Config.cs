@@ -41,13 +41,13 @@ static class DalConfig
 
     static DalConfig()
     {
-        string relativePath = @"..\xml\dal-config.xml"; // נתיב יחסי לתיקיית xml
+        string relativePath = @"..\..\..\..\xml\dal-config.xml"; // נתיב יחסי לתיקיית xml
         string absolutePath = Path.GetFullPath(relativePath); // המרת הנתיב היחסי לנתיב מוחלט
 
         //XElement dalConfig = XElement.Load(@"C:\\Users\\user1\\Desktop\\DalTest\\xml\\dal-config.xml")
         //    ?? throw new DalConfigException("dal-config.xml file is not found");
 
-                XElement dalConfig = XElement.Load(@"C:\\Users\\user1\\Desktop\\DalTest\\xml\\dal-config.xml")
+        XElement dalConfig = XElement.Load(absolutePath)
             ?? throw new DalConfigException("dal-config.xml file is not found");
 
 

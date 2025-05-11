@@ -8,12 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
+
 namespace Dal;
 
 internal class SaleImplemention : ISale
 {
-    private const string FILE_PATH = @"C:\Users\user1\Desktop\DalTest\xml\sales.xml";
-    XElement saleXml = XElement.Load(FILE_PATH);
+    private const string FILE_PATH = @"..\..\..\..\xml\sales.xml"; // נתיב יחסי לתיקיית xml
+  static  string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט
+    // private const string FILE_PATH = @"C:\Users\user1\Desktop\DalTest\xml\sales.xml";
+    XElement saleXml = XElement.Load(absolutePath);
     public int Create(Sale item)
     {
         try

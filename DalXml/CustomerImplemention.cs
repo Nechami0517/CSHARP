@@ -8,8 +8,9 @@ namespace Dal;
 
 internal class CustomerImplemention : ICustomer
 {
-    private const string FILE_PATH = @"C:\Users\user1\Desktop\DalTest\xml\customers.xml";
-   
+    //private const string FILE_PATH = @"C:\Users\user1\Desktop\DalTest\xml\customers.xml";
+    private const string FILE_PATH = @"..\..\..\..\xml\customers.xml"; // נתיב יחסי לתיקיית xml
+    static string absolutePath = Path.GetFullPath(FILE_PATH); // המרת הנתיב היחסי לנתיב מוחלט
     XmlSerializer serializer = new XmlSerializer(typeof(List<Customer>));
     public int Create(Customer newCustomer)
     {
@@ -17,10 +18,10 @@ internal class CustomerImplemention : ICustomer
         {
             List<Customer> customers = new List<Customer>();
             
-            if (File.Exists(FILE_PATH))
+            if (File.Exists(absolutePath))
             {
                 //קריאת הלקוחות הקימים לתוך הרשימה 
-                using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Read))
                 {
                     customers = serializer.Deserialize(fs) as List<Customer>;
                 }
@@ -35,7 +36,7 @@ internal class CustomerImplemention : ICustomer
                 else
                 {
                     customers.Add(newCustomer);
-                    using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Write))
+                    using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Write))
                     {
                         serializer.Serialize(fs, customers);
                     }
@@ -58,10 +59,10 @@ internal class CustomerImplemention : ICustomer
         try
         {
             List<Customer> customers = new List<Customer>();
-            if (File.Exists(FILE_PATH))
+            if (File.Exists(absolutePath))
             {
                 //קריאת הלקוחות הקימים לתוך הרשימה 
-                using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Read))
                 {
                     customers = serializer.Deserialize(fs) as List<Customer>;
                 }
@@ -71,7 +72,7 @@ internal class CustomerImplemention : ICustomer
                 if (c != null)
                 {
                     customers.Remove(c);
-                    using (FileStream fs = new FileStream(FILE_PATH, FileMode.Create, FileAccess.Write))
+                    using (FileStream fs = new FileStream(absolutePath, FileMode.Create, FileAccess.Write))
                     {
                         serializer.Serialize(fs, customers);
                     }
@@ -93,10 +94,10 @@ internal class CustomerImplemention : ICustomer
         try
         {
             List<Customer> customers = new List<Customer>();
-            if (File.Exists(FILE_PATH))
+            if (File.Exists(absolutePath))
             {
                 //קריאת הלקוחות הקימים לתוך הרשימה 
-                using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Read))
                 {
                     customers = serializer.Deserialize(fs) as List<Customer>;
                 }
@@ -126,10 +127,10 @@ internal class CustomerImplemention : ICustomer
         try
         {
             List<Customer> customers = new List<Customer>();
-            if (File.Exists(FILE_PATH))
+            if (File.Exists(absolutePath))
             {
                 //קריאת הלקוחות הקימים לתוך הרשימה 
-                using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Read))
                 {
                     customers = serializer.Deserialize(fs) as List<Customer>;
                 }
@@ -159,10 +160,10 @@ internal class CustomerImplemention : ICustomer
         try
         {
             List<Customer> customers = new List<Customer>();
-            if (File.Exists(FILE_PATH))
+            if (File.Exists(absolutePath))
             {
                 //קריאת הלקוחות הקימים לתוך הרשימה 
-                using (FileStream fs = new FileStream(FILE_PATH, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(absolutePath, FileMode.Open, FileAccess.Read))
                 {
                     customers = serializer.Deserialize(fs) as List<Customer>;
                 }

@@ -81,7 +81,7 @@ namespace UI
                 updateDetails();
             }
 
-           
+
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -118,7 +118,7 @@ namespace UI
                         QuantityInStock
                     );
                     _bl.Product.Update(updateProduct);
-                   
+
                 }
                 else
                 {
@@ -183,20 +183,26 @@ namespace UI
 
         private void filterComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-           if(filterComboBox.SelectedItem.ToString() == "כל הקטגוריות")
+            if (filterComboBox.SelectedItem.ToString() == "כל הקטגוריות")
             {
                 רשימת_מוצרים.DataSource = _bl.Product.ReadAll();
             }
-            else { 
-            if (!Enum.TryParse<DO.Categories>(filterComboBox.SelectedItem.ToString(), out DO.Categories categorySelected))
+            else
             {
-                categorySelected = DO.Categories.bags;
-            }
-            
-            רשימת_מוצרים.DataSource = _bl.Product.ReadAll(p => p.Category == categorySelected).ToList();
+                if (!Enum.TryParse<DO.Categories>(filterComboBox.SelectedItem.ToString(), out DO.Categories categorySelected))
+                {
+                    categorySelected = DO.Categories.bags;
+                }
+
+                רשימת_מוצרים.DataSource = _bl.Product.ReadAll(p => p.Category == categorySelected).ToList();
                 ProductcomboBox.DataSource = productsList.Where(p => p.Category == categorySelected).Select(p => p.ProductName).ToList();
                 deleteComboBox.DataSource = productsList.Where(p => p.Category == categorySelected).Select(p => p.ProductName).ToList();
             }
+        }
+
+        private void deleteComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

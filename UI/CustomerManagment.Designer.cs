@@ -327,6 +327,7 @@
             label10.Size = new Size(94, 20);
             label10.TabIndex = 2;
             label10.Text = " Idחיפוש לפי ";
+            label10.Click += label10_Click;
             // 
             // searchNameTextBox
             // 

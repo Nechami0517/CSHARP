@@ -64,3 +64,4 @@ C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\refint\DalList.dll
 C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.pdb
 C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\ref\DalList.dll
 C:\Users\user1\Desktop\DalTest\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalList\obj\Debug\DalList.sourcelink.json

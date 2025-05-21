@@ -31,7 +31,8 @@ namespace UI
 
         private void sales_Click(object sender, EventArgs e)
         {
-
+            SaleManagement form = new SaleManagement();
+            form.ShowDialog();
         }
     }
 }

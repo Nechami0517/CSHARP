@@ -1,21 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfSale>
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sale>
-    <SaleId>1000</SaleId>
-    <ProductId>100</ProductId>
-    <Count>2</Count>
-    <Price>70</Price>
-    <IsClub>false</IsClub>
-    <DateBeginSail>2025-03-25T11:47:22.664436+02:00</DateBeginSail>
-    <DateEndSail>9999-12-31T23:59:59.9999999</DateEndSail>
-  </Sale>
-  <Sale>
-    <SaleId>1001</SaleId>
-    <ProductId>101</ProductId>
-    <Count>2</Count>
+    <SaleId>1052</SaleId>
+    <ProductId>131</ProductId>
+    <Count>20</Count>
     <Price>15</Price>
     <IsClub>true</IsClub>
-    <DateBeginSail>2025-03-25T11:47:22.6855682+02:00</DateBeginSail>
-    <DateEndSail>9999-12-31T23:59:59.9999999</DateEndSail>
+    <DateBeginSail>2025-05-18T19:16:24.485247+03:00</DateBeginSail>
+    <DateEndSail xsi:nil="true" />
+  </Sale>
+  <Sale>
+    <SaleId>1053</SaleId>
+    <ProductId>127</ProductId>
+    <Count>14</Count>
+    <Price>10</Price>
+    <IsClub>false</IsClub>
+    <DateBeginSail>2025-05-18T19:16:24.485247+03:00</DateBeginSail>
+    <DateEndSail xsi:nil="true" />
+  </Sale>
+  <Sale>
+    <SaleId>1055</SaleId>
+    <ProductId>1000</ProductId>
+    <Count>0</Count>
+    <Price>0</Price>
+    <IsClub>true</IsClub>
+    <DateBeginSail>2025-05-20T23:54:48.2040409+03:00</DateBeginSail>
+    <DateEndSail>2025-05-20T23:54:48.206924+03:00</DateEndSail>
+  </Sale>
+  <Sale>
+    <SaleId>1000</SaleId>
+    <ProductId>1000</ProductId>
+    <Count>0</Count>
+    <Price>0</Price>
+    <IsClub>true</IsClub>
+    <DateBeginSail>2025-05-21T00:07:16.41518+03:00</DateBeginSail>
+    <DateEndSail xsi:nil="true" />
   </Sale>
 </ArrayOfSale>

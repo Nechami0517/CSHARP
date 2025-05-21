@@ -92,3 +92,81 @@ C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.res
 C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.sourcelink.json
 C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
 C:\Users\user1\Desktop\DalTest\UI\obj\Debug\net8.0-windows\UI.CustomerManagment.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Bl.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalFacade.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalXml.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalList.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Tools.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Bl.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalXml.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalFacade.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalList.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Tools.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.CustomerLogin.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.CustomerManagment.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.Login.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.SaleManagement.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.SaleManMenu.resources
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Bl.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalFacade.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalList.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Tools.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Bl.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalXml.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalFacade.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\DalList.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\bin\Debug\net8.0-windows\Tools.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.CustomerLogin.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.CustomerManagment.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.Login.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.SaleManagement.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.SaleManMenu.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\bin\Debug\net8.0-windows\DalXml.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.CustomerManagment.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.Login.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.ManagementMenu.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.SaleManagement.resources
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\UI\obj\Debug\net8.0-windows\UI.sourcelink.json

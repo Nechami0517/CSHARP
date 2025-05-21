@@ -77,4 +77,11 @@
     <price>500</price>
     <QuantityInStock>0</QuantityInStock>
   </Product>
+  <Product>
+    <ProductId>134</ProductId>
+    <ProductName>טבעת</ProductName>
+    <Category>jewelry</Category>
+    <price>10</price>
+    <QuantityInStock>20</QuantityInStock>
+  </Product>
 </ArrayOfProduct>

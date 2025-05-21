@@ -14,8 +14,10 @@ internal static class Config
     //private static string nameXmlFile = @"..\xml\data-config.xml";
     //static XElement dataConfigXml = XElement.Load(absolutePath);
     //private const string FILE_PATH = "ConstProductId";
-    private static string nameXmlFile = @"C:\Users\user1\Desktop\DalTest\xml\data-config.xml";
-    static XElement dataConfigXml = XElement.Load(nameXmlFile);
+    private static string nameXmlFile = @"..\..\..\..\xml\data-config.xml";
+    private static string absolutePath = Path.GetFullPath(nameXmlFile); // המרת הנתיב היחסי לנתיב מוחלט
+
+    static XElement dataConfigXml = XElement.Load(absolutePath);
     //private const string FILE_PATH = "ConstProductId";
 
     /// <summary>

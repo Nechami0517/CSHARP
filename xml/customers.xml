@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
-    <CustomerId>327867792</CustomerId>
-    <CustomerName>Michal Busgrian</CustomerName>
-    <CustomerAdress>רבי עקיבא 9</CustomerAdress>
-    <CustomerPhoneNumber>0527652458</CustomerPhoneNumber>
-  </Customer>
-  <Customer>
     <CustomerId>5</CustomerId>
     <CustomerName>דסי</CustomerName>
     <CustomerAdress>ךלחיע</CustomerAdress>
     <CustomerPhoneNumber>2</CustomerPhoneNumber>
-  </Customer>
-  <Customer>
-    <CustomerId>565964</CustomerId>
-    <CustomerName>kuyhg</CustomerName>
-    <CustomerAdress>kjhg</CustomerAdress>
-    <CustomerPhoneNumber>154</CustomerPhoneNumber>
   </Customer>
   <Customer>
     <CustomerId>215310517</CustomerId>
@@ -25,9 +13,21 @@
     <CustomerPhoneNumber>583212449</CustomerPhoneNumber>
   </Customer>
   <Customer>
+    <CustomerId>0</CustomerId>
+    <CustomerName>מירי</CustomerName>
+    <CustomerAdress>רבי נתן 1</CustomerAdress>
+    <CustomerPhoneNumber>89744587</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerId>327867792</CustomerId>
+    <CustomerName>Michal Busgrian</CustomerName>
+    <CustomerAdress>רבי עקיבא 9</CustomerAdress>
+    <CustomerPhoneNumber>100</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
     <CustomerId>215897465</CustomerId>
     <CustomerName>נחמי קרשינסקי</CustomerName>
-    <CustomerAdress>ריטב"א 6</CustomerAdress>
+    <CustomerAdress>ריטב"א 8</CustomerAdress>
     <CustomerPhoneNumber>58985445</CustomerPhoneNumber>
   </Customer>
 </ArrayOfCustomer>

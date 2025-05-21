@@ -56,9 +56,9 @@
             deleteComboBox = new ComboBox();
             deleteBtn = new Button();
             סינון = new TabPage();
-            רשימת_מוצרים = new ListBox();
             label3 = new Label();
             filterComboBox = new ComboBox();
+            רשימת_מוצרים = new ListBox();
             tabControl1.SuspendLayout();
             הוספה.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)QuantityInStockNumericUpDown).BeginInit();
@@ -320,6 +320,7 @@
             deleteComboBox.Name = "deleteComboBox";
             deleteComboBox.Size = new Size(151, 28);
             deleteComboBox.TabIndex = 21;
+            deleteComboBox.SelectedIndexChanged += deleteComboBox_SelectedIndexChanged;
             // 
             // deleteBtn
             // 
@@ -342,14 +343,6 @@
             סינון.Text = "סינון";
             סינון.UseVisualStyleBackColor = true;
             // 
-            // רשימת_מוצרים
-            // 
-            רשימת_מוצרים.FormattingEnabled = true;
-            רשימת_מוצרים.Location = new Point(41, 82);
-            רשימת_מוצרים.Name = "רשימת_מוצרים";
-            רשימת_מוצרים.Size = new Size(301, 324);
-            רשימת_מוצרים.TabIndex = 1;
-            // 
             // label3
             // 
             label3.AutoSize = true;
@@ -367,6 +360,14 @@
             filterComboBox.Size = new Size(151, 28);
             filterComboBox.TabIndex = 14;
             filterComboBox.SelectedIndexChanged += filterComboBox_SelectedIndexChanged;
+            // 
+            // רשימת_מוצרים
+            // 
+            רשימת_מוצרים.FormattingEnabled = true;
+            רשימת_מוצרים.Location = new Point(41, 82);
+            רשימת_מוצרים.Name = "רשימת_מוצרים";
+            רשימת_מוצרים.Size = new Size(301, 324);
+            רשימת_מוצרים.TabIndex = 1;
             // 
             // ProductManagement
             // 

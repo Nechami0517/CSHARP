@@ -51,3 +51,30 @@ C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\DalXml.pdb
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\ref\DalXml.dll
 C:\Users\user1\Desktop\DalTest\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.deps.json
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.pdb
+C:\Users\michal\Desktop\לימודים\c#\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.deps.json
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\bin\DalXml.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\CSHARP-a988aa161ba67b85f15f99ef9732148103ae75f6\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Desktop\נחמי תיכנות\יד\C# מתקדם\פרויקט\DalTest\DalXml\obj\Debug\DalXml.sourcelink.json

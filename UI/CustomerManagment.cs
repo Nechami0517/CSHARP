@@ -185,8 +185,13 @@ namespace UI
                 var filteredCustomers = customersList.Where(c => c.CustomerId.ToString().Contains(searchString)).ToList();
                 רשימת_לקוחות.DataSource = filteredCustomers;
             }
-            
-           
+
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

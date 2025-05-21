@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj",
       "projectName": "Bl",
-      "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\Bl.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\DalTest\\Bl\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,14 +113,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Desktop\\DalTest\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj"
             },
-            "C:\\Users\\user1\\Desktop\\DalTest\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\DalList\\DalList.csproj"
+            "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj"
             },
-            "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\DalTest\\DalXml\\DalXml.csproj"
+            "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj"
             }
           }
         }

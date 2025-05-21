@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\BlTest\\BlTest.csproj": {}
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\BlTest\\BlTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\BlTest\\BlTest.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\BlTest\\BlTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\BlTest\\BlTest.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\BlTest\\BlTest.csproj",
         "projectName": "BlTest",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\BlTest\\BlTest.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\BlTest\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\BlTest\\BlTest.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\BlTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\Bl.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\Bl.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\DalTest.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\DalTest.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\DalTest.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\DalTest.csproj"
               }
             }
           }
@@ -77,20 +77,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\Bl.csproj",
         "projectName": "Bl",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\Bl.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Bl\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\Bl.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Bl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -106,14 +106,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -153,20 +153,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -219,20 +219,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -248,11 +248,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj"
               }
             }
           }
@@ -292,20 +292,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\DalTest.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\DalTest.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalTest\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\DalTest.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -321,17 +321,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalList\\DalList.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalList\\DalList.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj"
               }
             }
           }
@@ -371,20 +371,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\DalXml.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalXml\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\DalXml.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -400,8 +400,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\DalFacade\\DalFacade.csproj"
               }
             }
           }
@@ -441,20 +441,20 @@
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj": {
+    "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\נחמי תיכנות\\יד\\C# מתקדם\\פרויקט\\DalTest\\Tools\\obj\\",
+        "projectPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\לימודים\\c#\\CSHARP\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
